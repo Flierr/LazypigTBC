@@ -14,6 +14,7 @@ Download the latest release (see release tab) and extract it to your <code>World
 
 ## Features
 
+- Auto sell grey items and repair at vendors by holding down shift
 - Auto roll selected option (Need/Greed/Pass) on green items when pressing Ctrl-Alt
 - Auto roll selected option (Need/Greed/Pass) on Coins, Bijous, Mark of the Illidari, Fel Armaments, Arcane Tomes, Amani Hex Sticks
 - Auto passing on Heart of Darkness
