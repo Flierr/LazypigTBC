@@ -10,7 +10,7 @@ Current state: Testing. The addon still spawns a number of errors in some of the
 
 ## Installation and Usage
 
-Download the latest release (see release tab) and extract it to your [code]Worldofwarcaft/Interface/Addons[/code] directory. Enable the addon from the character pane. Open lazypigs interface settings with <b>/lp</b>
+Download the latest release (see release tab) and extract it to your <code>Worldofwarcaft/Interface/Addons</code> directory. Enable the addon from the character pane. Open lazypigs interface settings with <b>/lp</b>
 
 ## Features
 
