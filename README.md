@@ -16,6 +16,7 @@ Download the latest release (see release tab) and extract it to your <code>World
 
 - Auto roll selected option (Need/Greed/Pass) on green items when pressing Ctrl-Alt
 - Auto roll selected option (Need/Greed/Pass) on Coins, Bijous, Mark of the Illidari, Fel Armaments, Arcane Tomes, Amani Hex Sticks
+- Auto passing on Heart of Darkness
 - Can mute world chat in dungeons, raids etc.
 - Can Enter/Leave/Queue/Release Battlegrounds
 - Can Auto accept invites from people
