@@ -1140,7 +1140,7 @@ function LazyPig_ReplyQuest(event)
 end
 
 function LazyPig_Dismount()
-	dismount();
+	Dismount();
 end
 
 function LazyPig_DropWSGFlag_NoggBuff()
